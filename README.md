@@ -1,5 +1,5 @@
 
-# Module-5 Coding Assignment
+# Summer Intern Project 
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
